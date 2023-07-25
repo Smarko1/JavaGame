@@ -1,0 +1,24 @@
+-classpath
+'C:/Users/Márkó/.m2/repository/org/openjfx/javafx-controls/20/javafx-controls-20.jar;C:/Users/Márkó/.m2/repository/org/openjfx/javafx-controls/20/javafx-controls-20-win.jar;C:/Users/Márkó/.m2/repository/org/openjfx/javafx-graphics/20/javafx-graphics-20.jar;C:/Users/Márkó/.m2/repository/org/openjfx/javafx-graphics/20/javafx-graphics-20-win.jar;C:/Users/Márkó/.m2/repository/org/openjfx/javafx-base/20/javafx-base-20.jar;C:/Users/Márkó/.m2/repository/org/openjfx/javafx-base/20/javafx-base-20-win.jar;C:/Users/Márkó/.m2/repository/org/openjfx/javafx-fxml/20/javafx-fxml-20.jar;C:/Users/Márkó/.m2/repository/org/openjfx/javafx-fxml/20/javafx-fxml-20-win.jar;C:/Users/Márkó/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.9.2/junit-jupiter-engine-5.9.2.jar;C:/Users/Márkó/.m2/repository/org/junit/platform/junit-platform-engine/1.9.2/junit-platform-engine-1.9.2.jar;C:/Users/Márkó/.m2/repository/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0.jar;C:/Users/Márkó/.m2/repository/org/junit/platform/junit-platform-commons/1.9.2/junit-platform-commons-1.9.2.jar;C:/Users/Márkó/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.9.2/junit-jupiter-api-5.9.2.jar;C:/Users/Márkó/.m2/repository/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar;C:/Users/Márkó/.m2/repository/org/junit/jupiter/junit-jupiter-params/5.9.2/junit-jupiter-params-5.9.2.jar;C:/Users/Márkó/.m2/repository/org/tinylog/tinylog-api/2.6.1/tinylog-api-2.6.1.jar;C:/Users/Márkó/.m2/repository/org/tinylog/tinylog-impl/2.6.1/tinylog-impl-2.6.1.jar'
+-encoding
+'UTF-8'
+-protected
+--release
+17
+-sourcepath
+'F:/Egyetem/SzoftverProjekt/homework-project-Smarko1/src/main/java;F:/Egyetem/SzoftverProjekt/homework-project-Smarko1/target/generated-sources/annotations'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'F:/Egyetem/SzoftverProjekt/homework-project-Smarko1/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'homework-project-Smarko1 1.0 API'
+-use
+-version
+-windowtitle
+'homework-project-Smarko1 1.0 API'
